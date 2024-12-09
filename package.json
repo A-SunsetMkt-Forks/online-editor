@@ -9,6 +9,6 @@
     },
     "dependencies": {
         "mongodb": "^4.10.0",
-        "nanoid": "^4.0.0"
+        "nanoid": "^5.0.9"
     }
 }
